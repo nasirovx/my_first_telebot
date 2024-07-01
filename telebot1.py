@@ -18,3 +18,4 @@ def info(message):
         bot.reply_to(message, f"ID: {message.from_user.id}")
 
 bot.polling(none_stop=True)
+
