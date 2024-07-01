@@ -17,7 +17,7 @@ Bot 2: Краткое описание функционала второго б�
 
 # bash
 Копировать код
-git clone https://github.com/username/TelegramBots.git
+git clone https://github.com/nasirovx/TelegramBots.git
 Перейдите в папку проекта:
 
 # bash
